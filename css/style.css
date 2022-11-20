@@ -423,4 +423,8 @@ main{
     .slai_abso{
         left: 9%;
     }
+
+    .bgcolor-2 .container{
+        padding: 0;
+    }
 }
