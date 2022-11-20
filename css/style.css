@@ -64,6 +64,7 @@ header{
 
 main{
     overflow: hidden;
+    
 }
 
 .bgcolor-1{
@@ -172,7 +173,7 @@ main{
 .bgcolor-2{
     display: flex;
     background-color: #22e6b9;
-    
+    padding-bottom: 200px;
 }
 
 .hidden{
@@ -333,6 +334,56 @@ main{
 }
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    
+    background-color: rgb(61, 61, 61); 
+    
+    height: 100px;
+}
+
+.content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+
+}
+
+.content p{
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Nunito', sans-serif;
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.ico{
+    display: flex;
+    
+}
+
+.ico i{
+
+    color: #ff4a01;
+    padding: 0 10px;
+    border-right: 1px solid white;
+}
+
+.ico i:last-child{
+    border-right: none;
+}
 
 
 
