@@ -522,6 +522,10 @@ footer{
     .bars-menu{
         display: block;
     }
+    .ico i{
+        display: flex;
+        align-items: center;
+    }
 
 
 
